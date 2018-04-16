@@ -12,5 +12,5 @@ function init() {
         alert("bravo for the code");
         index = 0;
       }
-  }
+    }
 })
